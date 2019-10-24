@@ -5,12 +5,7 @@ Repository for SimpleOres2
 
 Created by AleXndrTheGr8st, maintained by Sinhika.
 
-Forge 1.14.2 port enabled thanks to Cadiboo's LGPL-licensed example code 
-<https://github.com/Cadiboo/Example-Mod> that he made free to all to borrow, 
-in the hopes of encouraging good coding practices in
-Forge mods. I hope I did a good job with it.
-
-**WARNING: 1.14 is a Work-in-Progress, Do Not Use.**
+This fork has been made for personal changes.
 
 License
 -------
